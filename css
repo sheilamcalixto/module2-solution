@@ -1,1 +1,92 @@
 # module2-solution
+body {
+    background-color: darkgrey;
+   
+}
+
+.menu {
+    text-align: center;
+    font-size: 52px;
+}
+
+div {
+    display: inline-block
+}
+
+div.name{
+    
+    margin-left: 81%;
+    margin: height 20px;
+    margin: width 20px;
+    
+}
+
+div.name1{
+
+    margin-left: 81%;
+    margin: height 20px;
+    margin: width 20px;
+       
+}
+
+div.name2{
+    
+    margin-left: 81%;
+    margin: height 20px;
+    margin: width 20px;
+   
+}
+
+.blue {   
+    border: 1px solid blue;
+    background-color: azure;
+    width: 400px;
+    height: 175px;
+    font-size: 25px;
+       
+}
+
+.blue1 {   
+    border: 1px solid blue;
+    background-color: azure;
+    width: 400px;
+    height: 175px;
+    font-size: 25px;
+       
+}
+
+.blue2 {   
+    border: 1px solid blue;
+    background-color: azure;
+    width: 400px;
+    height: 175px;
+    font-size: 25px;
+       
+}
+
+.name {
+    border: 3px solid red;
+    background-color: yellow;
+    width: 70px;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.name1 {
+    border: 3px solid red;
+    background-color: darkmagenta;
+    width: 70px;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.name2 {
+    border: 3px solid red;
+    background-color: grey;
+    width: 70px;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+}
